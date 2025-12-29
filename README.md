@@ -8,7 +8,7 @@ Automated HR onboarding process using UiPath Modern Design
 This project automates the HR employee onboarding process using UiPath (Modern Design).  
 It eliminates manual repetitive tasks and ensures faster, error-free onboarding.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - UiPath Studio (Modern Design)
 - Excel Automation
 - File System Automation
